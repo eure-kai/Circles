@@ -4,7 +4,7 @@ import java.awt.*;
 import java.applet.Applet;
 import java.awt.event.*;
 
-public class ClickCircle extends Applet implements MouseListener {
+public class CircleClick extends Applet implements MouseListener {
     private int x = 0;
     private int y = 0;
     
