@@ -1,2 +1,2 @@
 # Circles
-BlueJ Java Graphics project that displays a circle where your mouse clicks
+BlueJ Java Graphics project that displays 10 circles at a time, showing where your mouse has clicked
