@@ -1,4 +1,4 @@
-//Step 1 - Implementing the Click
+//Step 1 - Implementing MouseListeners
 
 import java.awt.*;
 import java.applet.Applet;
