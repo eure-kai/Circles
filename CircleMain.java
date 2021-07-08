@@ -1,4 +1,4 @@
-//Step 2 - Displaying 10 circles at once
+//Step 2 - Displaying previous 10 circles at once
 
 import java.awt.*;
 import java.applet.Applet;
